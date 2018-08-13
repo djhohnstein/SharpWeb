@@ -32,6 +32,6 @@ Arguments:
 .\SharpWeb.exe all
 ```
 
-## Standing on the Shoulders of Gians
+## Standing on the Shoulders of Giants
 
-This project uses the work of @plainprogrammer and his work on a compliant .NET 2.0 CLR compliant SQLite parser, which can be found [here](https://github.com/plainprogrammer/csharp-sqlite). In addition, @gourk created a wonderful ASN parser and cryptography helpers for decrypting and parsing the FireFox login files. It uses a revised version of his work (found [here](https://github.com/gourk/FirePwd.Net)) to parse these logins out.
+This project uses the work of @plainprogrammer and his work on a compliant .NET 2.0 CLR compliant SQLite parser, which can be found [here](https://github.com/plainprogrammer/csharp-sqlite). In addition, @gourk created a wonderful ASN parser and cryptography helpers for decrypting and parsing the FireFox login files. It uses a revised version of his work (found [here](https://github.com/gourk/FirePwd.Net)) to parse these logins out. Without their work this project would not have come together nearly as quickly as it did.
