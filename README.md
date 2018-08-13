@@ -16,7 +16,6 @@ Arguments:
     chrome    - Fetch saved Chrome logins.
     firefox   - Fetch saved FireFox logins.
     edge      - Fetch saved Internet Explorer/Microsoft Edge logins.
-"
 ```
 
 ## Example: Retrieve Edge and Firefox Credentials
