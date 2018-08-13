@@ -24,7 +24,7 @@ Arguments:
 ```
 .\SharpWeb.exe edge firefox
 ```
-![Firefox/Edge](Images/ff_edge.png)
+![FireFox/Edge](Images/ff_edge.png)
 
 ## Example: Retrieve All Saved Browser Credentials
 
